@@ -129,7 +129,7 @@ class compu:
 
 # main
 answer = 0
-com = compu(inputProgram,[1])
+com = compu(inputProgram,[2])
 state, ret = com.ProcessProgram()
 #print(com.program)
 print(ret)
